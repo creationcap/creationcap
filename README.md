@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @creationcap.
 - 👀 I’m interested in making makecode games.
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on people that can help me code games.
