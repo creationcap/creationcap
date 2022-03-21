@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @creationcap.
-- 👀 I’m interested in making makecode games.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on people that can help me code games.
+- 👀 I’m interested in making esolangs and extremely simple interpreters.
+- 🌱 I’m currently learning nothing right now.
+- 💞️ I’m looking to collaborate on people that can help me code better interpreters for my esolangs.
